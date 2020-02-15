@@ -1,4 +1,4 @@
-<h1> Tuan Nguyen 
+<h1> Tuan Nguyen </h1>
 I am a recent graduate from an intensive software engineering bootcamp. I left University studying accounting. Continuing with my studies I discoved that I love solving complex problems and creating things, I became a developer.  I am itching to start my career - I love the constant problem solving, iterative processes, continuous learning and opportunities to collaborate.
 
 
