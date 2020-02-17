@@ -1,11 +1,10 @@
 <h1> Tuan Nguyen </h1>
-I am a recent graduate from an intensive software engineering bootcamp. I left University studying accounting. Continuing with my studies I discoved that I love solving complex problems and creating things, I became a developer.  I am itching to start my career - I love the constant problem solving, iterative processes, continuous learning and opportunities to collaborate.
+I am a recent graduate from an intensive software engineering bootcamp. I left University studying accounting. On the seearch looking for fufilment in my life that accounting was not providing mem, I discoved coding, I loved the aspect of complex problems solving and creating things.  I am itching to start my career - I love the constant problem solving, iterative processes and continuous learning.
 
 
 <h2>
 Skills
 </h2>
-
 
 <ul>
 <li> Team work</l1>
@@ -19,9 +18,11 @@ I am very intrigued with the concept of solving complex problems through simple 
 Projects
 </h2>
 
-Moovli
-Makers bnb
-Bank tech test
+| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
+|--|--|--|--|--|
+| [Moovli](https://github.com/AndreaDiotallevi/moovli) | Exploring new frameworks that our team has never used previously, our group of 4 decided to create a single page web application based on Google maps Api that would provide the user with a list of popular movies of the countries clicked. | 2 weeks | Javascript, React, Python, BeautifulSoup, Heroku | Jest, Enzyme, EsLint, Circle CI |
+| Makers bnb | -- | -- | -- | -- |
+| Bank tech test | -- | -- | -- | -- |
 
 
 <h2>
