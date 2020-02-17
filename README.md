@@ -10,8 +10,7 @@ Skills
 <li> Team work</l1>
 <li> Communication </li>
 <li> Problem solving</li>
-I am very intrigued with the concept of solving complex problems through simple simplifying the problem and using logical thinking to come up with a efficient solution 
-
+I am very intrigued with the concept of solving complex problems through simplifying the problem and using logical thinking to come up with an efficient solution 
 </ul>
 
 <h2>
@@ -21,8 +20,8 @@ Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 | [Moovli](https://github.com/AndreaDiotallevi/moovli) | Exploring new frameworks that our team has never used previously, our group of 4 decided to create a single page web application based on Google maps Api that would provide the user with a list of popular movies of the countries clicked. | 2 weeks | Javascript, React, Python, BeautifulSoup, Heroku | Jest, Enzyme, EsLint, Circle CI |
-| Makers bnb | -- | -- | -- | -- |
-| Bank tech test | -- | -- | -- | -- |
+| [Makers bnb](https://github.com/ajbacon/makers-bnb) | Putting our learning to the test, a team of 4 recreated our own version of Airbnb | 1 week | Ruby, Sinatra,  CSS, HTML, Postgresql | Rspec, Capybara, Selenium, Rubocop |
+| [Bank tech test](https://github.com/TuanNguyen1010/Bank_test) | Given an example of a tech test, I had to complete a backend meeting all the requirements. | 1 week | Ruby | Rspec |
 
 
 <h2>
