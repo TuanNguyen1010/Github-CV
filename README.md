@@ -1,12 +1,16 @@
 <h1> Tuan Nguyen </h1>
-I am a recent graduate from an intensive software engineering bootcamp. I left University studying accounting. On the seearch looking for fufilment in my life that accounting was not providing mem, I discoved coding, I loved the aspect of complex problems solving and creating things.  I am itching to start my career - I love the constant problem solving, iterative processes and continuous learning.
+I am a recent graduate from an intensive web development bootcamp. I left University studying accounting. On the seearch looking for fufilment in my life that accounting was not providing mem, I discoved coding, I loved the aspect of complex problems solving and creating things.  I am itching to start my career - I love the constant problem solving, iterative processes and continuous learning.
 
 <h2>
 Skills
 </h2>
 
 <h4> Team work</h4> 
+I have completed multiple projects in teams throughout my time at University and the bootcamp. Throughout my experience working in groups at the bootcamp, I've experienced a rollercoaster of emotions but thrived in these situations as maintaining postive team morale will always generate the best possible output. 
+
 <h4> Communication </h4>
+I've been working in customer service for several years both in person and through a computer screen. What I learned most from all this experience is to match energy level and make everyone feel valued. 
+
 <h4> Problem solving</h4>
 I am very intrigued with the concept of solving complex problems through simplifying the problem and using logical thinking to come up with an efficient solution 
 </ul>
@@ -38,7 +42,6 @@ Education
 
 
 <h3> University of Hertfordshire </h3>
-
 <ul>
 <li> Accounting and Finance </li>
 </ul>
