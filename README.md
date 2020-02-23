@@ -40,9 +40,9 @@ Education
 <li> CI/CD: Travis CI, Heroku</li>
 
 
-<h3> University of Hertfordshire </h3>
+<h3> University of Hertfordshire (2016 - 2019) </h3>
 <ul>
-<li> Accounting and Finance (2016 - 2019) </li>
+<li> Accounting and Finance </li>
 </ul>
 
 <h2>Experience</h2>
