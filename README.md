@@ -23,6 +23,7 @@ Projects
 | [Moovli](https://github.com/AndreaDiotallevi/moovli) | Exploring new frameworks that our team has never used previously, our group of 4 decided to create a single page web application based on Google maps Api that would provide the user with a list of popular movies of the countries clicked. | Javascript, React, Python, BeautifulSoup, Heroku | Jest, Enzyme, Circle CI |
 | [Makers bnb](https://github.com/ajbacon/makers-bnb) | Putting our learning to the test, a team of 4 recreated our own version of Airbnb | Ruby, Sinatra,  CSS, HTML, Postgresql | Rspec, Capybara, Selenium |
 | [Bank tech test](https://github.com/TuanNguyen1010/Bank_test) | Given an example of a tech test, I had to complete a backend meeting all the requirements. | Ruby | Rspec |
+| [Recipe searcher](https://github.com/TuanNguyen1010/recipe-searcher) | A personal project that grabs recipes from an Api based on searching an ingredient | Javascript, React | Jest |
 
 
 <h2>
