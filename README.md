@@ -53,8 +53,7 @@ Through my role as customer service at ASOS, I was faced with high stressed situ
 
 <h2>Hobbies</h2>
 <ul>
-<li> Brazilian jiu jitsu </l>
-<li> Muay thai </li>
+<li> Travel </li>
 <li> Fitness </li>
 <li> Cooking </li>
 
