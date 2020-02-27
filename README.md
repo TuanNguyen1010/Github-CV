@@ -6,11 +6,10 @@ Skills
 </h2>
 
 <h4> Team work</h4> 
-During my final project at Makers, I've experienced a rollercoaster of emotions as my team did not have minimum viable product by the end of 5th day because we was trying to learn the MERN stack. I maintaining great communication between my team and voiced my concerns because we would not have enough time to learn a new tech stack and complete the project within the time frame we had. As a result, we compromised by creating the project mainly on React. 
+During my final project at Makers, I've experienced a rollercoaster of emotions as my team did not have minimum viable product by the end of 5th day because we was trying to learn the MERN stack. I maintaining great communication between my team and voiced my concerns because we would not have enough time to learn a new tech stack and complete the project within the time frame we had. As a result, we compromised by creating the project mainly on React that completed within the timeframe. 
 
 <h4> Problem solving</h4>
 I am very intrigued with the concept of solving complex problems through simplifying the problem and using logical thinking to come up with an efficient solution. Once of the biggest draw for my studies in accounting is the logical thinking aspect of book keeping and understand the reasoning behind each transaction, I can see the relability between this and problem solving software development. 
-</ul>
 
 <h2>
 Projects
