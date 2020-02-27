@@ -1,5 +1,5 @@
 <h1> Tuan Nguyen </h1>
-I am a recent graduate from an intensive web development bootcamp. I left University studying accounting. On the seearch looking for fufilment in my life that accounting was not providing mem, I discoved coding, I loved the aspect of complex problems solving and creating things.  I am itching to start my career - I love the constant problem solving, iterative processes and continuous learning.
+I am a recent graduate from an intensive web development bootcamp. I left University studying accounting. On the search looking for fulfilling career that accounting would not provide me, I discovered coding, I loved the aspect of complex problems solving and creating things.  I am itching to start my career - I love the constant problem solving, iterative processes and continuous learning.
 
 <h2>
 Skills
