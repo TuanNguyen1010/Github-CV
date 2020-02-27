@@ -8,7 +8,7 @@ Skills
 <h4> Team work</h4> 
 I've been working in customer service for several years with physical interaction and through a computer screen. What I learned most from all this experience is to match energy level and make everyone feel valued, which is a required for great communication.
 
-I have completed multiple projects in teams throughout my time at University and the bootcamp. Throughout my experience working in groups at the bootcamp, I've experienced a rollercoaster of emotions but thrived in these situations as great communication between team memebers will maintains postive team morale and generate the best possible output. 
+I have completed multiple projects in teams throughout my time at University and the bootcamp. During my final project at Makers, I've experienced a rollercoaster of emotions but I thrived in these situations as maintaining great communication between kept team morale high and we generate the best possible result. 
 
 <h4> Problem solving</h4>
 I am very intrigued with the concept of solving complex problems through simplifying the problem and using logical thinking to come up with an efficient solution. Once of the biggest draw for my studies in accounting is the logical thinking aspect of book keeping and understand the reasoning behind each transaction, I can see the relability between this and problem solving software development. 
