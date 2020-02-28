@@ -1,15 +1,15 @@
 <h1> Tuan Nguyen </h1>
-I am a recent graduate from an intensive web development bootcamp. I left University studying accounting. On the search looking for fulfilling career that accounting would not provide me, I discovered coding, I loved the aspect of complex problems solving and creating things.  I am itching to start my career - I love the constant problem solving, iterative processes and continuous learning.
+I am a software engineer and alumnus of Makers Academy - an intensive 16 week coding bootcamp. Previously I studied Accounting and Finance, due to my enthusiasm for analysing data. Subsequently, through my interest in analysis and problem solving I discovered coding. I am currently looking to apply my passion for all things technical within a challenging environment.
 
 <h2>
 Skills
 </h2>
 
 <h4> Team work</h4> 
-During my final project at Makers, I've experienced a rollercoaster of emotions as my team did not have minimum viable product by the end of 5th day because we was trying to learn the MERN stack. I maintaining great communication between my team and voiced my concerns because we would not have enough time to learn a new tech stack and complete the project within the time frame we had. As a result, we compromised by creating the project mainly on React that completed within the timeframe. 
+During Makers, I completed a technical group project which involved working in an agile team of 4 people across a 2 week long sprint. The project utilised Google Maps, Geolocation, OMDB and IMDB film APIs to allow users to identify the most popular critically acclaimed films by locations via clicking on a map-based GUI. I experienced a plethora of challenges, which included meeting the requirements of a MVP (minimum viable product) within the agreed time constraints. I ensured strong communication between my team and ensured we were able to efficiently plan out the challenges associated with learning and building a project within an entirely new framework (React).
 
 <h4> Problem solving</h4>
-I am very intrigued with the concept of solving complex problems through simplifying the problem and using logical thinking to come up with an efficient solution. Once of the biggest draw for my studies in accounting is the logical thinking aspect of book keeping and understand the reasoning behind each transaction, I can see the relability between this and problem solving software development. 
+I love solving complex problems through simplifying the problem by breaking it down into several smaller problems and applying systematic logic to develop an efficient solution. I feel that transferring parallel aspects from accounting to software development has allowed me to further dive into the intricacies of the code, this includes applying data analysis, transactional reviews and sharing best practice in team stand ups.
 
 <h2>
 Projects
