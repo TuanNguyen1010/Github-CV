@@ -17,7 +17,7 @@ Projects
 
 | Title | Description | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|
-|[Meal Mapper]{https://github.com/TuanNguyen1010/Meal_mapper}| Full-stack web application using the MERN stack helps users plan, search, and save dinner recipes then generate a shopping list for all the ingredients.|Javascript, React, Express, Node, Heroku, MongoDB| Jest,  SuperTest, Enzyme, CircleCi|
+|[Meal Mapper](https://github.com/TuanNguyen1010/Meal_mapper)| Full-stack web application using the MERN stack helps users plan, search, and save dinner recipes then generate a shopping list for all the ingredients.|Javascript, React, Express, Node, Heroku, MongoDB| Jest,  SuperTest, Enzyme, CircleCi|
 |--|--|--|--|
 | [Moovli](https://github.com/AndreaDiotallevi/moovli) | Exploring new frameworks that our team has never used previously, our group of 4 decided to create a single page web application based on Google maps Api that would provide the user with a list of popular movies of the countries clicked. | Javascript, React, Python, BeautifulSoup, Heroku | Jest, Enzyme, Circle CI |
 | [Makers bnb](https://github.com/ajbacon/makers-bnb) | Putting our learning to the test, a team of 4 recreated our own version of Airbnb | Ruby, Sinatra,  CSS, HTML, Postgresql | Rspec, Capybara, Selenium |
