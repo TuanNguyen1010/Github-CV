@@ -46,7 +46,7 @@ Education
 
 <h2>Experience</h2>
 <h3> ASOS (2017 - 2019) </h3>
-Through my role as customer service at ASOS, I was faced with high stressed situations where I would be requierd to de-esclate and provide efficient solutions to customers. I have been able to become pragmatic and more analytical when combatting problematic situations. Through my role, I have developed a calm approach when delaing with situations that inflicts high level of stress.
+Through my role as customer service at ASOS, I was faced with high stressed situations where I would be requierd to de-esclate and provide efficient solutions to customers. I have been able to become pragmatic and more analytical when combatting problematic situations. Through my role, I have developed a calm approach when dealing with situations that inflicts high level of stress.
 
 
 <h2>Hobbies</h2>
