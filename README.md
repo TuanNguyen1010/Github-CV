@@ -24,12 +24,10 @@ Projects
 | [E-Store](https://github.com/TuanNguyen1010/E-store) | A E-commerce store practicing CRUD application on Mern stack| Javascript, MongoDB, Express,React, Node.js | Jest, superTest |
 
 
-<h2>
-Education
-</h2>
-<h3> Makers Academy - Software development bootcamp (November 2019 - February 2020) </h3>
+<h2>Education</h2>
+<h3>Makers Academy - Software development bootcamp (November 2019 - February 2020) </h3>
 <ul>
-<li> Agile Software Development </li>
+<li>Agile Software Development </li>
 <li>XP Values</li>
 <li>TDD</li>
 <li>Languages: Ruby, Javascript (Jquery), HTML/CSS</li>
@@ -39,13 +37,13 @@ Education
 <li> CI/CD: Travis CI, Heroku</li>
 
 
-<h3> University of Hertfordshire (2016 - 2019) </h3>
+<h3>University of Hertfordshire (2016 - 2019) </h3>
 <ul>
-<li> Accounting and Finance </li>
+<li>Accounting and Finance </li>
 </ul>
 
 <h2>Experience</h2>
-<h3> ASOS (2017 - 2019) </h3>
+<h3>ASOS (2017 - 2019) </h3>
 Through my role as customer service at ASOS, I was faced with high stressed situations where I would be requierd to de-esclate and provide efficient solutions to customers. I have been able to become pragmatic and more analytical when combatting problematic situations. Through my role, I have developed a calm approach when dealing with situations that inflicts high level of stress.
 
 
