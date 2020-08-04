@@ -35,6 +35,7 @@ Projects
 <li>Databases: PostgreSQL</li>
 <li>Testing Suites: Rspec, Capybara, Selenium-Webdriver, Jasmine</li>
 <li> CI/CD: Travis CI, Heroku</li>
+</ul>
 
 
 <h3>University of Hertfordshire (2016 - 2019) </h3>
